@@ -1,0 +1,10 @@
+@article{xuan2019object,
+  title={Object tracking in satellite videos by improved correlation filters with motion estimations},
+  author={Xuan, Shiyu and Li, Shengyang and Han, Mingfei and Wan, Xue and Xia, Gui-Song},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  volume={58},
+  number={2},
+  pages={1074--1086},
+  year={2019},
+  publisher={IEEE}
+}

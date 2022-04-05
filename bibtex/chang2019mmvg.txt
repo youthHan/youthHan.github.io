@@ -1,0 +1,6 @@
+@inproceedings{chang2019mmvg,
+  title={MMVG-INF-Etrol@ TRECVID 2019: Activities in Extended Video.},
+  author={Chang, Xiaojun and Liu, Wenhe and Huang, Po-Yao and Li, Changlin and Zhu, Fengda and Han, Mingfei and Li, Mingjie and Ma, Mengyuan and Hu, Siyi and Kang, Guoliang and others},
+  booktitle={TRECVID},
+  year={2019}
+}
