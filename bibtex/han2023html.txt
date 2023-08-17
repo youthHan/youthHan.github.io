@@ -1,0 +1,7 @@
+@inproceedings{han2023html,
+  title={HTML: Hybrid Temporal-scale Multimodal Learning Framework for Referring Video Object Segmentation},
+  author={Han, Mingfei and Wang, Yali and Li, Zhihui and Yao, Lina and Chang, Xiaojun and Qiao, Yu},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  year={2023},
+  organization={IEEE}
+}
