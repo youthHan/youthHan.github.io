@@ -1,0 +1,6 @@
+@misc{han2023shot,
+          title={Shot2Story20K: A New Benchmark for Comprehensive Understanding of Multi-shot Videos},
+          author={Han, Mingfei and Chang, Xiaojun and Wang, Heng and Yang, Linjie},
+          url={"http://mingfei.info/shot2story"},
+          year={2023},
+        }
