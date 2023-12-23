@@ -1,6 +1,8 @@
 @misc{han2023pmv,
-          title={Video Recognition in Portrait Mode},
-          author={Han, Mingfei and Yang, Linjie and Jin, Xiaojie and Feng, Jiashi and Chang, Xiaojun and Wang, Heng},
-          url={"http://mingfei.info/PMV"},
-          year={2023},
-        }
+  title={Video Recognition in Portrait Mode}, 
+  author={Mingfei Han and Linjie Yang and Xiaojie Jin and Jiashi Feng and Xiaojun Chang and Heng Wang},
+  year={2023},
+  eprint={2312.13746},
+  archivePrefix={arXiv},
+  primaryClass={cs.CV}
+}
