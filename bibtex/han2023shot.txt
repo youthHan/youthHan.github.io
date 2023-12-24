@@ -1,8 +1,6 @@
-@misc{han2023shot2story20k,
-          title={Shot2Story20K: A New Benchmark for Comprehensive Understanding of Multi-shot Videos}, 
-          author={Mingfei Han and Linjie Yang and Xiaojun Chang and Heng Wang},
-          year={2023},
-          eprint={2312.10300},
-          archivePrefix={arXiv},
-          primaryClass={cs.CV}
-      }
+@article{han2023shot2story20k,
+    title={Shot2Story20K: A New Benchmark for Comprehensive Understanding of Multi-shot Videos}, 
+    author={Mingfei Han and Linjie Yang and Xiaojun Chang and Heng Wang},
+    journal={arXiv preprint arXiv:2311.17043},
+    year={2023}
+}
