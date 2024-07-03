@@ -1,0 +1,6 @@
+@article{weng2024longvlm,
+  title={Longvlm: Efficient long video understanding via large language models},
+  author={Weng, Yuetian and Han, Mingfei and He, Haoyu and Chang, Xiaojun and Zhuang, Bohan},
+  journal={arXiv preprint arXiv:2404.03384},
+  year={2024}
+}
