@@ -1,0 +1,9 @@
+@misc{singh2024malmm,
+      title={MALMM: Multi-Agent Large Language Models for Zero-Shot Robotics Manipulation}, 
+      author={Harsh Singh and Rocktim Jyoti Das and Mingfei Han and Preslav Nakov and Ivan Laptev},
+      year={2024},
+      eprint={2411.17636},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO},
+      url={https://arxiv.org/abs/2411.17636}, 
+}
