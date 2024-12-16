@@ -1,0 +1,6 @@
+@article{han2024roomtour3d,
+      title={RoomTour3D: Geometry-Aware Video-Instruction Tuning for Embodied Navigation}, 
+      author={Mingfei Han and Liang Ma and Kamila Zhumakhanova and Ekaterina Radionova and Jingyi Zhang and Xiaojun Chang and Xiaodan Liang and Ivan Laptev},
+      journal={arXiv preprint arXiv:2412.08591},
+      year={2023}
+}
