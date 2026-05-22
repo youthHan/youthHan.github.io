@@ -47,3 +47,61 @@ p {line-height: 1.5em;}
     .publication .row-text {display: block; width: 100%; margin-left: 0;}
     .press {display: block;}
 }
+/* ==========================================================================
+   map and footnote
+   ========================================================================== */
+
+/* contact section */
+.contact-section {
+    margin-bottom: 40px;
+}
+.contact-section p {
+    margin: 8px 0;
+    line-height: 1.6;
+}
+
+/* 访问地图容器：确保居中、防止溢出、留出上下呼吸空间 */
+.map-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 50px auto 20px auto;
+    padding: 10px;
+    max-width: 100%;
+    overflow: hidden;
+}
+
+/* 针对 Clustrmaps 异步生成的 a 标签和 img/iframe 进行微调 */
+.map-container a, 
+.map-container img, 
+.map-container iframe {
+    max-width: 100% !important;
+    height: auto !important;
+    border-radius: 4px; /* 让地图边缘带有一点点圆角，看起来更精致 */
+}
+
+/* 页脚整体样式优化 */
+.footer {
+    border-top: 1px solid #e5e7eb; /* 增加一条淡淡的分割线 */
+    margin-top: 60px;
+    padding: 24px 0;
+    background-color: #f9fafb; /* 淡淡的底色，区分正文与页脚 */
+}
+
+.footer-content {
+    max-width: 800px; /* 限制脚注的最大宽度，使其与主体内容对齐（可根据您网站主页宽度调整） */
+    margin: 0 auto;
+    padding: 0 20px;
+    text-align: center; /* 居中对齐，看起来比死板的靠左更高级 */
+    font-size: 0.85rem;
+    color: #6b7280; /* 使用柔和的灰色，弱化脚注，突出正文 */
+}
+
+.footer-content a {
+    color: #4b5563;
+    text-decoration: underline;
+}
+
+.footer-content a:hover {
+    color: #111827;
+}
